@@ -1,0 +1,29 @@
+#navbar
+{
+	position: fixed;
+	height: 30px;
+	width: 100%;
+	left: 0%;
+	top: 0%;
+}
+
+body
+{
+	background-color: #36393e;
+	color:#bebebe;
+	font-family:verdana;
+}
+
+#date
+{
+	position: fixed;
+	left: 20px;
+	top: 20px;
+}
+
+#video
+{
+	position: fixed;
+	left: 20px;
+	top: 90px;
+}
