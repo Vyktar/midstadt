@@ -80,36 +80,11 @@ body
 }
 
 /*magic items page section*/
-#header1
+#magicitem
 {
 	position: absolute;
 	left: 20px;
 	top: 20px;
-	width: 800px;
-}
-
-#text1
-{
-	position: absolute;
-	left: 20px;
-	top: 70px;
-	color: #acb9bf;
-	width: 800px;
-}
-
-#header2
-{
-	position: absolute;
-	left: 20px;
-	top: 220px;
-	width: 800px;
-}
-
-#text2
-{
-	position: absolute;
-	left: 20px;
-	top: 270px;
 	width: 800px;
 }
 
