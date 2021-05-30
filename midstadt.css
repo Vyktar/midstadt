@@ -23,7 +23,7 @@ body
 
 #bg
 {
-	position: absolute;
+	position: fixed;
 	top: 30px;
 	bottom: 0px;
 	width: 100%;
