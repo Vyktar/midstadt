@@ -21,6 +21,13 @@ body
 	top: 4px;
 }
 
+#bg
+{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+}
+
 #logo
 {
 	position: absolute;
