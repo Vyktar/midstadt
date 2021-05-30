@@ -21,15 +21,6 @@ body
 	top: 4px;
 }
 
-#bg
-{
-	position: absolute;
-	top: 30px;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-}
-
 #bgtxt
 {
 	position: absolute;
