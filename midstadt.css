@@ -34,6 +34,13 @@ body
 	height: 20px;
 }
 
+#nav0
+{
+	position: absolute;
+	left: 5px;
+	width: 250px;
+}
+
 #nav1
 {
 	position: absolute;
@@ -67,21 +74,6 @@ body
 	position: absolute;
 	left: 502px;
 	width: 250px;
-}
-
-/*index page section*/
-#date
-{
-	position: fixed;
-	left: 20px;
-	top: 20px;
-}
-
-#video
-{
-	position: fixed;
-	left: 20px;
-	top: 90px;
 }
 
 /*magic items page section*/
