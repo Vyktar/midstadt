@@ -160,6 +160,6 @@ a.three:hover {
 color: #acb9bf;
 }
 a.three:active {
-color: white;
+color: black;
 text-decoration: none
 }
