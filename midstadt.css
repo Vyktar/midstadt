@@ -41,6 +41,13 @@ body
 	width: 250px;
 }
 
+#date
+{
+	position: absolute;
+	left: 10px;
+	top: 40px;
+}
+
 a.one:link {
 color: #0080bf;
 text-decoration: none
