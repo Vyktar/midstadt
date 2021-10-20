@@ -42,6 +42,13 @@ body
 	width: 250px;
 }
 
+#nav2
+{
+	position: absolute;
+	left: 240px;
+	width: 250px;
+}
+
 #date
 {
 	position: absolute;
