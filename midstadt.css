@@ -48,49 +48,25 @@ body
 	top: 40px;
 }
 
-a.one:link {
+a.one:link
+{
 color: #0080bf;
 text-decoration: none
 }
-a.one:visited {
+
+a.one:visited
+{
 color: #0080bf;
 text-decoration: none
 }
-a.one:hover {
+
+a.one:hover
+{
 color: #0099e5;
 }
-a.one:active {
-color: white;
-text-decoration: none
-}
-a.two:link {
-color: #acb9bf;
-text-decoration: none
-}
-a.two:visited {
-color: #acb9bf;
-text-decoration: none
-}
-a.two:hover {
-color: #5cb8e5;
-}
-a.two:active {
-color: white;
-text-decoration: none
-}
-a.three:link {
-color: black;
-text-decoration: none;
-background-color: black;
-}
-a.three:visited {
-color: black;
-text-decoration: none
-}
-a.three:hover {
-color: #acb9bf;
-}
-a.three:active {
+
+a.one:active
+{
 color: white;
 text-decoration: none
 }
